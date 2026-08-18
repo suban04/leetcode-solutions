@@ -21,3 +21,27 @@ LeetCode/
 ├── Easy/
 ├── Medium/
 └── Hard/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+<!---LeetCode Topics End-->
