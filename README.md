@@ -35,6 +35,7 @@ LeetCode/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -44,4 +45,12 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 <!---LeetCode Topics End-->
