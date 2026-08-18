@@ -1,0 +1,23 @@
+class Solution {
+    public int[][] flipAndInvertImage(int[][] image) {
+        for(int[] row  :image){
+            int  left =0 ;
+            int right =row.length-1;
+
+            while(left <= right){
+               // Store left value
+                int temp = row[left];
+
+                // Swap and invert
+                row[left] = row[right] ^ 1;
+                row[right] = temp ^ 1;
+
+
+                     left ++;
+                    right --;
+             }
+        }
+        
+        return image;
+    }
+}
