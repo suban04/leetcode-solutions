@@ -51,6 +51,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suban04/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
