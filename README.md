@@ -62,6 +62,7 @@ LeetCode/
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suban04/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/suban04/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suban04/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suban04/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
