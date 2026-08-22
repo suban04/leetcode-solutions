@@ -32,6 +32,7 @@ LeetCode/
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/suban04/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/suban04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suban04/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suban04/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Two Pointers
@@ -62,6 +63,7 @@ LeetCode/
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suban04/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/suban04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/suban04/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suban04/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suban04/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
