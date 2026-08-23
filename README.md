@@ -42,6 +42,7 @@ LeetCode/
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/suban04/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/suban04/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/suban04/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0457-circular-array-loop](https://github.com/suban04/leetcode-solutions/tree/main/0457-circular-array-loop/) | Medium |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -107,6 +108,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/suban04/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/suban04/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/suban04/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/suban04/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 ## Sorting
