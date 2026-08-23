@@ -49,6 +49,7 @@ LeetCode/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/suban04/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -64,6 +65,7 @@ LeetCode/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suban04/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suban04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -73,6 +75,7 @@ LeetCode/
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
