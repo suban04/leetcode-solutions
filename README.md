@@ -73,6 +73,7 @@ LeetCode/
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suban04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/suban04/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suban04/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/suban04/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suban04/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
