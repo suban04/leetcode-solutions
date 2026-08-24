@@ -74,6 +74,7 @@ LeetCode/
 | [1486-xor-operation-in-an-array](https://github.com/suban04/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suban04/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/suban04/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/suban04/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suban04/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
