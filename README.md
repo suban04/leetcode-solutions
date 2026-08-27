@@ -28,6 +28,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0041-first-missing-positive](https://github.com/suban04/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/suban04/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0457-circular-array-loop](https://github.com/suban04/leetcode-solutions/tree/main/0457-circular-array-loop/) | Medium |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -87,6 +88,7 @@ LeetCode/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/suban04/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/suban04/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0457-circular-array-loop](https://github.com/suban04/leetcode-solutions/tree/main/0457-circular-array-loop/) | Medium |
 ## Floyd's Cycle Finding Algorithm
