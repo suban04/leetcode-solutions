@@ -119,6 +119,7 @@ LeetCode/
 | [0125-valid-palindrome](https://github.com/suban04/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/suban04/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/suban04/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suban04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2942-find-words-containing-character](https://github.com/suban04/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -141,4 +142,5 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suban04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
