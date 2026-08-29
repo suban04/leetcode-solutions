@@ -31,6 +31,7 @@ LeetCode/
 | [0041-first-missing-positive](https://github.com/suban04/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/suban04/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0457-circular-array-loop](https://github.com/suban04/leetcode-solutions/tree/main/0457-circular-array-loop/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/suban04/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
@@ -136,4 +137,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/suban04/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
