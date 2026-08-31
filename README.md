@@ -31,6 +31,7 @@ LeetCode/
 | [0041-first-missing-positive](https://github.com/suban04/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/suban04/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/suban04/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0457-circular-array-loop](https://github.com/suban04/leetcode-solutions/tree/main/0457-circular-array-loop/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -152,6 +153,7 @@ LeetCode/
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suban04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suban04/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -171,4 +173,20 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3024-type-of-triangle](https://github.com/suban04/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
