@@ -80,6 +80,7 @@ LeetCode/
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/suban04/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suban04/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suban04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -189,4 +190,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 <!---LeetCode Topics End-->
