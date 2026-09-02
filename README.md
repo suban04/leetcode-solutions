@@ -143,6 +143,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suban04/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0707-design-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +195,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
