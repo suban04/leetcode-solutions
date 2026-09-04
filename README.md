@@ -99,6 +99,7 @@ LeetCode/
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suban04/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/suban04/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/suban04/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0326-power-of-three](https://github.com/suban04/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
@@ -157,6 +158,7 @@ LeetCode/
 | [0061-rotate-list](https://github.com/suban04/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/suban04/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/suban04/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/suban04/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 ## Counting Sort
