@@ -211,9 +211,14 @@ LeetCode/
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/suban04/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/suban04/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
