@@ -215,6 +215,7 @@ LeetCode/
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/suban04/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/suban04/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/suban04/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Design
@@ -224,5 +225,6 @@ LeetCode/
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/suban04/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/suban04/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
