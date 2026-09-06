@@ -186,6 +186,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/suban04/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/suban04/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@ LeetCode/
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/suban04/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0707-design-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
