@@ -36,6 +36,7 @@ LeetCode/
 | [0162-find-peak-element](https://github.com/suban04/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0457-circular-array-loop](https://github.com/suban04/leetcode-solutions/tree/main/0457-circular-array-loop/) | Medium |
+| [0496-next-greater-element-i](https://github.com/suban04/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -115,6 +116,7 @@ LeetCode/
 | [0142-linked-list-cycle-ii](https://github.com/suban04/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/suban04/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0457-circular-array-loop](https://github.com/suban04/leetcode-solutions/tree/main/0457-circular-array-loop/) | Medium |
+| [0496-next-greater-element-i](https://github.com/suban04/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/suban04/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suban04/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -190,10 +192,12 @@ LeetCode/
 | [0042-trapping-rain-water](https://github.com/suban04/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suban04/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/suban04/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/suban04/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/suban04/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/suban04/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
