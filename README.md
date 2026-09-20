@@ -49,6 +49,7 @@ LeetCode/
 | [2942-find-words-containing-character](https://github.com/suban04/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/suban04/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suban04/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/suban04/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ LeetCode/
 | [0326-power-of-three](https://github.com/suban04/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/suban04/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ LeetCode/
 | [0496-next-greater-element-i](https://github.com/suban04/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/suban04/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suban04/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/suban04/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +252,8 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/suban04/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/suban04/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
