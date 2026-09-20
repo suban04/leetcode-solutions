@@ -100,6 +100,7 @@ LeetCode/
 | [2469-convert-the-temperature](https://github.com/suban04/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3024-type-of-triangle](https://github.com/suban04/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suban04/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/suban04/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
