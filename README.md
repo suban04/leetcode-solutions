@@ -122,6 +122,7 @@ LeetCode/
 | [0128-longest-consecutive-sequence](https://github.com/suban04/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/suban04/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/suban04/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0205-isomorphic-strings](https://github.com/suban04/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/suban04/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0457-circular-array-loop](https://github.com/suban04/leetcode-solutions/tree/main/0457-circular-array-loop/) | Medium |
 | [0496-next-greater-element-i](https://github.com/suban04/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -153,6 +154,7 @@ LeetCode/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/suban04/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/suban04/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/suban04/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/suban04/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suban04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
