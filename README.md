@@ -43,6 +43,7 @@ LeetCode/
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suban04/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0896-monotonic-array](https://github.com/suban04/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/suban04/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/suban04/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
