@@ -100,6 +100,7 @@ LeetCode/
 | [0150-evaluate-reverse-polish-notation](https://github.com/suban04/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0326-power-of-three](https://github.com/suban04/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/suban04/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/suban04/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -258,6 +259,7 @@ LeetCode/
 | [0162-find-peak-element](https://github.com/suban04/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/suban04/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suban04/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/suban04/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/suban04/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Design
