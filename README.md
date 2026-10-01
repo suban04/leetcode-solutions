@@ -35,6 +35,7 @@ LeetCode/
 | [0150-evaluate-reverse-polish-notation](https://github.com/suban04/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/suban04/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0179-largest-number](https://github.com/suban04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/suban04/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/suban04/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -171,6 +172,7 @@ LeetCode/
 | [0014-longest-common-prefix](https://github.com/suban04/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/suban04/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/suban04/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0179-largest-number](https://github.com/suban04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/suban04/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/suban04/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/suban04/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -183,6 +185,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/suban04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/suban04/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suban04/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0506-relative-ranks](https://github.com/suban04/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -321,6 +324,7 @@ LeetCode/
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/suban04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/suban04/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Trie
 |  |
