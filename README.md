@@ -105,6 +105,7 @@ LeetCode/
 | ------- |
 | [0002-add-two-numbers](https://github.com/suban04/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0067-add-binary](https://github.com/suban04/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/suban04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suban04/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0326-power-of-three](https://github.com/suban04/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
@@ -230,6 +231,7 @@ LeetCode/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suban04/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/suban04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -338,4 +340,8 @@ LeetCode/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/suban04/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/suban04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
