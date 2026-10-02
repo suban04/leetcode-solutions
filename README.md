@@ -85,6 +85,7 @@ LeetCode/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suban04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -96,12 +97,14 @@ LeetCode/
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suban04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suban04/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suban04/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0067-add-binary](https://github.com/suban04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suban04/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0326-power-of-three](https://github.com/suban04/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
@@ -171,6 +174,7 @@ LeetCode/
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suban04/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/suban04/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/suban04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/suban04/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/suban04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/suban04/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
