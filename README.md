@@ -31,6 +31,7 @@ LeetCode/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/suban04/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/suban04/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/suban04/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/suban04/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suban04/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -232,6 +233,7 @@ LeetCode/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suban04/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/suban04/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/suban04/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 ## Stack
 |  |
 | ------- |
