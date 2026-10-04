@@ -27,6 +27,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suban04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/suban04/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/suban04/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
@@ -277,6 +278,7 @@ LeetCode/
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suban04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/suban04/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/suban04/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
@@ -313,6 +315,7 @@ LeetCode/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suban04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/suban04/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/suban04/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
