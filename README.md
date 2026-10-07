@@ -65,6 +65,7 @@ LeetCode/
 | [3024-type-of-triangle](https://github.com/suban04/leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suban04/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/suban04/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suban04/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ LeetCode/
 | [0067-add-binary](https://github.com/suban04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suban04/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suban04/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@ LeetCode/
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/suban04/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suban04/leetcode-solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/suban04/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suban04/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -220,6 +223,7 @@ LeetCode/
 | [0203-remove-linked-list-elements](https://github.com/suban04/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suban04/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -271,6 +275,7 @@ LeetCode/
 | [0506-relative-ranks](https://github.com/suban04/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/suban04/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/suban04/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suban04/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -357,4 +362,12 @@ LeetCode/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suban04/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suban04/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suban04/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
