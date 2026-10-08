@@ -51,6 +51,7 @@ LeetCode/
 | [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0896-monotonic-array](https://github.com/suban04/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/suban04/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/suban04/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/suban04/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -85,6 +86,7 @@ LeetCode/
 | [0541-reverse-string-ii](https://github.com/suban04/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/suban04/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/suban04/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/suban04/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/suban04/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -204,6 +206,7 @@ LeetCode/
 | [0347-top-k-frequent-elements](https://github.com/suban04/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suban04/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0506-relative-ranks](https://github.com/suban04/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0905-sort-array-by-parity](https://github.com/suban04/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/suban04/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/suban04/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
