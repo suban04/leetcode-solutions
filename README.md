@@ -41,6 +41,7 @@ LeetCode/
 | [0179-largest-number](https://github.com/suban04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/suban04/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/suban04/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0303-range-sum-query-immutable](https://github.com/suban04/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/suban04/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suban04/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0454-4sum-ii](https://github.com/suban04/leetcode-solutions/tree/main/0454-4sum-ii/) | Medium |
@@ -305,6 +306,7 @@ LeetCode/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suban04/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/suban04/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/suban04/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 ## Interactive
 |  |
@@ -363,6 +365,7 @@ LeetCode/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/suban04/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/suban04/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/suban04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Memoization
 |  |
