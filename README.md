@@ -59,6 +59,7 @@ LeetCode/
 | [1051-height-checker](https://github.com/suban04/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/suban04/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suban04/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/suban04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/suban04/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suban04/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/suban04/leetcode-solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -362,6 +363,7 @@ LeetCode/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/suban04/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/suban04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Memoization
 |  |
 | ------- |
