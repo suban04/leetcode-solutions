@@ -198,6 +198,7 @@ LeetCode/
 | [0541-reverse-string-ii](https://github.com/suban04/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suban04/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/suban04/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0709-to-lower-case](https://github.com/suban04/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suban04/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/suban04/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2942-find-words-containing-character](https://github.com/suban04/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
