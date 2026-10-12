@@ -51,6 +51,7 @@ LeetCode/
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suban04/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/suban04/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/suban04/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/suban04/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/suban04/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/suban04/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/suban04/leetcode-solutions/tree/master/0941-valid-mountain-array) |
@@ -304,6 +305,7 @@ LeetCode/
 | [0367-valid-perfect-square](https://github.com/suban04/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/suban04/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/suban04/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/suban04/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Design
 |  |
@@ -382,4 +384,8 @@ LeetCode/
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suban04/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/suban04/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
