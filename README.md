@@ -119,6 +119,7 @@ LeetCode/
 | [0067-add-binary](https://github.com/suban04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/suban04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suban04/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/suban04/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/suban04/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/suban04/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -191,6 +192,7 @@ LeetCode/
 | [0058-length-of-last-word](https://github.com/suban04/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/suban04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/suban04/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/suban04/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/suban04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/suban04/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/suban04/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
