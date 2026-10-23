@@ -127,6 +127,7 @@ LeetCode/
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/suban04/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/suban04/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0507-perfect-number](https://github.com/suban04/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/suban04/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/suban04/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suban04/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
