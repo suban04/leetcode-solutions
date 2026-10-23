@@ -27,6 +27,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suban04/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/suban04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/suban04/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suban04/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -151,6 +152,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suban04/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/suban04/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/suban04/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/suban04/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
