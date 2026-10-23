@@ -121,6 +121,7 @@ LeetCode/
 | [0070-climbing-stairs](https://github.com/suban04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suban04/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/suban04/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0279-perfect-squares](https://github.com/suban04/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/suban04/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/suban04/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/suban04/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -256,6 +257,7 @@ LeetCode/
 | [0042-trapping-rain-water](https://github.com/suban04/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/suban04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/suban04/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0279-perfect-squares](https://github.com/suban04/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## Stack
 |  |
 | ------- |
@@ -388,4 +390,16 @@ LeetCode/
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suban04/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/suban04/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/suban04/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/suban04/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
